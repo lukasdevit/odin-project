@@ -1,9 +1,9 @@
 :root {
-    -color-dark: #1f2937;
-    -color-grey: #1f2937;
-    -color-white: #f9faf8;
-    -color-offwhite: #e5e7eb;
-    -color-accent: #3882f6;
+    --color-dark: #1f2937;
+    --color-grey: #1f2937;
+    --color-white: #f9faf8;
+    --color-offwhite: #e5e7eb;
+    --color-accent: #3882f6;  /*Fix variables from -[..] to --[..]*/
 }
 
 /*
