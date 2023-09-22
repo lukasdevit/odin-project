@@ -1,0 +1,15 @@
+:root {
+    -color-dark: #1f2937;
+    -color-grey: #1f2937;
+    -color-white: #f9faf8;
+    -color-offwhite: #e5e7eb;
+    -color-accent: #3882f6;
+}
+
+/*
+Hero Main Text 48px extra-bold var(--color-white)
+Hero Secondary Text, Header Link Text: 18px var(--color-offwhite) 
+Header Logo Text: 24px var(--color-white)
+Information Header Text: 36px var(--color-dark)
+Quote Text: 36px light italic var(--color-dark)
+*/
