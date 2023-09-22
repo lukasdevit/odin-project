@@ -14,3 +14,28 @@ Information Header Text: 36px var(--color-dark)
 Quote Text: 36px light italic var(--color-dark)
 */
 
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--color-dark);
+    padding: 0 20px;
+}
+
+.logo {
+    font-size: 24px;
+    color: var(--color-white);
+    flex-shrink: 0;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.link a{
+    text-decoration: none;
+    color: var(--color-offwhite);
+}
+
