@@ -130,7 +130,7 @@ section {
   transition: transform 5s ease-in;
 }
 
-.adv-item img:hover {
+.characters-item img:hover {
   transform: scale(5);
 }
 
