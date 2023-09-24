@@ -28,6 +28,10 @@
   ],
   "souces": [
     {
+      "id": "placeholder",
+      "name": "Choose your Souce!"
+    },
+    {
       "id": "tomato",
       "name": "Tomato",
       "img": "./images/souce-tomato.png"
@@ -42,5 +46,78 @@
       "name": "Pesto",
       "img": "./images/souce-pesto.png"
     }
-  ]
+  ],
+    "cheeses": [
+        {
+        "id": "placeholder",
+        "name": "Choose your Cheese!"
+        },
+        {
+        "id": "mozzarella",
+        "name": "Mozzarella",
+        "img": "./images/cheese-mozzarella.png"
+        },
+        {
+        "id": "cheddar",
+        "name": "Cheddar",
+        "img": "./images/cheese-cheddar.png"
+        },
+        {
+        "id": "parmesan",
+        "name": "Parmesan",
+        "img": "./images/cheese-parmesan.png"
+        }
+    ],
+    "toppings": [
+        {
+        "id": "pepperoni",
+        "name": "Pepperoni",
+        "img": "./images/topping-pepperoni.png"
+        },
+        {
+        "id": "mushrooms",
+        "name": "Mushrooms",
+        "img": "./images/topping-mushrooms.png"
+        },
+        {
+        "id": "onions",
+        "name": "Onions",
+        "img": "./images/topping-onions.png"
+        },
+        {
+        "id": "sausage",
+        "name": "Sausage",
+        "img": "./images/topping-sausage.png"
+        },
+        {
+        "id": "bacon",
+        "name": "Bacon",
+        "img": "./images/topping-bacon.png"
+        },
+        {
+        "id": "extra cheese",
+        "name": "Extra Cheese",
+        "img": "./images/topping-extra-cheese.png"
+        },
+        {
+        "id": "black olives",
+        "name": "Black Olives",
+        "img": "./images/topping-black-olives.png"
+        },
+        {
+        "id": "green peppers",
+        "name": "Green Peppers",
+        "img": "./images/topping-green-peppers.png"
+        },
+        {
+        "id": "pineapple",
+        "name": "Pineapple",
+        "img": "./images/topping-pineapple.png"
+        },
+        {
+        "id": "spinach",
+        "name": "Spinach",
+        "img": "./images/topping-spinach.png"
+        }
+    ]
 }
