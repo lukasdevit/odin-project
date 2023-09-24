@@ -30,7 +30,7 @@ This is a ~~simple recipe page~~ very hard for me project. It's a part of [The O
 
 
 ### Rock Paper Scissors
-Presenting a *ehm*-straightforward game of rock-paper-scissors, which is featured as part of The [Odin Project's](https://www.theodinproject.com) course.
+Presenting an *ehm*-straightforward game of rock-paper-scissors, which is featured as part of The [Odin Project's](https://www.theodinproject.com) course.
 
 [Live Demo](https://lukasdevit.github.io/odin-project/rock-paper-scissors) <br>
 [More info  **soon**]()
