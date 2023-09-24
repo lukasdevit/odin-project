@@ -26,20 +26,20 @@
 This is a ~~simple recipe page~~ very hard for me project. It's a part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes) course.
 
 [Live Demo](https://lukasdevit.github.io/odin-project/pizza-time)<br>
-[More info](/pizza-time/README.md)
+[More info **soon**]()
 
 
 ### Rock Paper Scissors
 Presenting a *ehm*-straightforward game of rock-paper-scissors, which is featured as part of The [Odin Project's](https://www.theodinproject.com) course.
 
 [Live Demo](https://lukasdevit.github.io/odin-project/rock-paper-scissors) <br>
-[More info](/rock-paper-scissors/README.md)
+[More info  **soon**]()
 
 ### Basic Landingpage
 Boring Landingpage, nothing shiny here.
 
 [Live Demo](https://lukasdevit.github.io/odin-project/landingpage)<br>
-[More info](/landingpage/README.md)
+[More info  **soon**]()
 
 
 
