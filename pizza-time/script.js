@@ -1,20 +1,28 @@
-// Get data from json file
+// Get data from json file and save it to a variable
 let jsonData = {};
 
 fetch("./data.json")
   .then((response) => response.json())
   .then((data) => {
     jsonData = data;
+    console.log(jsonData);
+    console.log(jsonData.doughTypes);
+    addDoughSelectors();
   })
   .catch((error) => console.log(error));
 
+
+// html consts
 const doughImage = document.getElementById("doughImage");
 const doughType = document.getElementById("doughTypes");
+// end of html consts
 
-function setHtmlInputs() {
+
+// import data and set html selectors
+function addDoughSelectors() {
   let doughList = document.getElementById("doughTypes");
   doughList.innerHTML = "";
-  jsonData.forEach((dough) => {
+  jsonData.doughTypes.forEach((dough) => {
     if (dough.id === "placeholder") {
       doughList.innerHTML += `<option value="${dough.id}" selected disabled>${dough.name}</option>`;
     } else {
@@ -36,3 +44,5 @@ function changeDough() {
     }
   });
 }
+
+changeDough();
