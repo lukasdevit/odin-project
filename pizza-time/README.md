@@ -1,9 +1,11 @@
 ### Recipes (or Pizza Time)
+
 This is a ~~simple recipe page~~ very hard for me project. It's a part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes) course.
 
 [Live Demo](https://lukasdevit.github.io/odin-project/pizza-time)
 
 #### Asignment
+
 - Create a index page with a list of recipes.
 
 - Create three pages with recipes.
@@ -24,7 +26,8 @@ Now, let's get started and turn this project into something extraordinary!
 
 #### Oh my god, where do I start?
 
- - Step 1: Create HTML!
- - Step 2: Learn canvas!
-
-Be right back..
+- Step 1: Create HTML!
+- Step 2: Learn canvas!
+- Step 3: Decide, that using images is easier!
+- Step 4: Create image for every type of dough. (I do it myself, don't hate the design please.)
+- Step 5: Buy Photoshop, because Gimp is feeling like a torture.

@@ -1,0 +1,46 @@
+{
+  "doughTypes": [
+    {
+      "id": "placeholder",
+      "name": "Choose your dough!",
+      "img": "./images/pizza-placeholder.png"
+    },
+    {
+      "id": "neapolitan",
+      "name": "Neapolitan",
+      "img": "./images/pizza-neapolitan.png"
+    },
+    {
+      "id": "newyork",
+      "name": "New York Style",
+      "img": "./images/pizza-newyork.png"
+    },
+    {
+      "id": "glutenfree",
+      "name": "Gluten Free",
+      "img": "./images/pizza-glutenfree.png"
+    },
+    {
+      "id": "detroid",
+      "name": "Detroid Style",
+      "img": "./images/pizza-detroid.png"
+    }
+  ],
+  "souces": [
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "img": "./images/souce-tomato.png"
+    },
+    {
+      "id": "pasta souce",
+      "name": "White",
+      "img": "./images/souce-white.png"
+    },
+    {
+      "id": "pesto",
+      "name": "Pesto",
+      "img": "./images/souce-pesto.png"
+    }
+  ]
+}
